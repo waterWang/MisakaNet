@@ -1,14 +1,53 @@
 {
-  "generated_at": "2026-08-18T13:14:05.262659+00:00",
+  "generated_at": "2026-08-18T16:57:06.485913+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 15,
   "items": [
     {
+      "type": "challenge",
+      "title": "[Feature] write_lesson MCP tool: agents can submit structured lessons",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/1122",
+      "labels": [
+        "enhancement",
+        "ready",
+        "agent-friendly",
+        "zero-bounty",
+        "has-test",
+        "status:competition"
+      ],
+      "timestamp": "2026-08-18T15:51:44Z",
+      "source": "github"
+    },
+    {
+      "type": "challenge",
+      "title": "[Feature] search rate limit: 5 free/day, then requires registration",
+      "url": "https://github.com/Ikalus1988/MisakaNet/issues/1121",
+      "labels": [
+        "enhancement",
+        "needs-ac",
+        "ready",
+        "agent-friendly",
+        "no-credentials",
+        "zero-bounty",
+        "has-test",
+        "status:competition"
+      ],
+      "timestamp": "2026-08-18T15:51:20Z",
+      "source": "github"
+    },
+    {
       "type": "merged_pr",
-      "title": "feat(scripts): add privacy-preserving intake outcome tracker",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1117",
-      "timestamp": "2026-08-18T05:46:37Z",
+      "title": "docs(mcp): publish crawler-facing snippets for direct HTTP tools/call (#1092)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1096",
+      "timestamp": "2026-08-18T13:21:16Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "test(mcp): add spam-guard regression corpus for anonymous submissions (#1094)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1097",
+      "timestamp": "2026-08-18T13:21:12Z",
       "source": "github"
     },
     {
@@ -16,49 +55,6 @@
       "title": "feat(scripts): add maintainer review queue command for pending intake issues",
       "url": "https://github.com/Ikalus1988/MisakaNet/pull/1116",
       "timestamp": "2026-08-18T05:46:34Z",
-      "source": "github"
-    },
-    {
-      "type": "challenge",
-      "title": "[MCP Intake] Add spam-guard regression corpus for anonymous submissions",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/1094",
-      "labels": [
-        "enhancement",
-        "good first issue",
-        "ready",
-        "agent-friendly",
-        "no-credentials",
-        "zero-bounty",
-        "has-test",
-        "status:competition",
-        "pool:quick"
-      ],
-      "timestamp": "2026-08-17T02:30:52Z",
-      "source": "github"
-    },
-    {
-      "type": "challenge",
-      "title": "[MCP Intake] Publish crawler-facing snippets for direct HTTP tools/call",
-      "url": "https://github.com/Ikalus1988/MisakaNet/issues/1092",
-      "labels": [
-        "documentation",
-        "good first issue",
-        "ready",
-        "agent-friendly",
-        "no-credentials",
-        "zero-bounty",
-        "has-test",
-        "status:competition",
-        "pool:quick"
-      ],
-      "timestamp": "2026-08-17T02:30:45Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "chore(deps-dev): bump wrangler from 4.120.0 to 4.123.0",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1081",
-      "timestamp": "2026-08-17T01:34:19Z",
       "source": "github"
     },
     {
