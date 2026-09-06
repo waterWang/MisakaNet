@@ -1,9 +1,16 @@
 {
-  "generated_at": "2026-09-05T23:04:46.113063+00:00",
+  "generated_at": "2026-09-06T06:05:29.313405+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
+    {
+      "type": "merged_pr",
+      "title": "[Lesson] Add status lifecycle + supersedes chain (#1440)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1455",
+      "timestamp": "2026-09-06T01:23:32Z",
+      "source": "github"
+    },
     {
       "type": "merged_pr",
       "title": "feat(i18n): add Spanish and Portuguese lessons for LatAm market (#1349)",
@@ -23,13 +30,6 @@
       "title": "feat: request classification logging (#1347)",
       "url": "https://github.com/Ikalus1988/MisakaNet/pull/1490",
       "timestamp": "2026-09-05T16:47:41Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "[Search] Add kind filter + query-intent routing (#1441)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1454",
-      "timestamp": "2026-09-05T16:47:26Z",
       "source": "github"
     },
     {
