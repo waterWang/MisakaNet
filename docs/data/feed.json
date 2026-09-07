@@ -1,28 +1,35 @@
 {
-  "generated_at": "2026-09-07T05:33:47.137128+00:00",
+  "generated_at": "2026-09-07T12:46:29.705238+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
     {
       "type": "merged_pr",
-      "title": "chore(deps): bump actions/upload-artifact from 4 to 7",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1520",
-      "timestamp": "2026-09-07T02:01:31Z",
+      "title": "Fix: [Bounty] Social media promotion post (needs human review)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1522",
+      "timestamp": "2026-09-07T11:11:47Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "chore(deps): bump actions/checkout from 4 to 7",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1519",
-      "timestamp": "2026-09-07T02:01:27Z",
+      "title": "docs: add lesson on curl SSL errors behind corporate proxies (rebased)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1532",
+      "timestamp": "2026-09-07T11:11:43Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "chore(deps): bump Codium-ai/pr-agent from 0.43.0 to 0.44.0",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1518",
-      "timestamp": "2026-09-07T02:01:04Z",
+      "title": "docs: add lesson on curl SSL errors behind corporate proxies (rebased #1532)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1533",
+      "timestamp": "2026-09-07T11:11:39Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "docs: add lesson on pip SSL timeout behind corporate proxies (rebased)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1531",
+      "timestamp": "2026-09-07T05:43:37Z",
       "source": "github"
     },
     {
@@ -30,13 +37,6 @@
       "title": "feat: package intake-bot as reusable GitHub Action (closes #1525)",
       "url": "https://github.com/Ikalus1988/MisakaNet/pull/1529",
       "timestamp": "2026-09-07T02:01:01Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "[Lesson] Add status lifecycle + supersedes chain (#1440)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1455",
-      "timestamp": "2026-09-06T01:23:32Z",
       "source": "github"
     },
     {
