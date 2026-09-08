@@ -1,9 +1,16 @@
 {
-  "generated_at": "2026-09-08T16:44:02.358848+00:00",
+  "generated_at": "2026-09-08T21:15:40.615445+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
+    {
+      "type": "merged_pr",
+      "title": "fix(ci): register workflow skips [Onboarding] issues — stop auto-close loop",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1561",
+      "timestamp": "2026-09-08T16:48:37Z",
+      "source": "github"
+    },
     {
       "type": "merged_pr",
       "title": "feat(agents): ci-lesson-search v1.0.1 — visible help + same-repo novel-intake notes",
@@ -30,13 +37,6 @@
       "title": "docs: DSH Directory badge + failure-knowledge benchmark swap + failure_harvest smoke guide",
       "url": "https://github.com/Ikalus1988/MisakaNet/pull/1546",
       "timestamp": "2026-09-07T17:34:22Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "feat(agents): failure_harvest P0 — batch failure clustering to lesson drafts",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1545",
-      "timestamp": "2026-09-07T17:21:15Z",
       "source": "github"
     },
     {
