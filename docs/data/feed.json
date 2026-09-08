@@ -1,9 +1,16 @@
 {
-  "generated_at": "2026-09-08T00:10:27.232990+00:00",
+  "generated_at": "2026-09-08T04:50:56.800665+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 10,
   "items": [
+    {
+      "type": "merged_pr",
+      "title": "feat(agents): misaka-intake-bot externally reusable — flywheel prerequisites (research + G1-G4)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1549",
+      "timestamp": "2026-09-08T00:43:14Z",
+      "source": "github"
+    },
     {
       "type": "merged_pr",
       "title": "docs: DSH Directory badge + failure-knowledge benchmark swap + failure_harvest smoke guide",
@@ -30,13 +37,6 @@
       "title": "feat(agents): internal dogfood (ci-lesson-search→v1.0) + server intake dedupe gate (#1526)",
       "url": "https://github.com/Ikalus1988/MisakaNet/pull/1540",
       "timestamp": "2026-09-07T15:56:19Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "feat(agents): intake-bot v1.0 — stack-aware hits, noise gate, suggest-only, offline tests (#1525)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1539",
-      "timestamp": "2026-09-07T15:32:25Z",
       "source": "github"
     },
     {
