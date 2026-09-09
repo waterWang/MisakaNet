@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-09-09T11:34:34.114451+00:00",
+  "generated_at": "2026-09-09T17:29:50.182996+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
     {
       "type": "merged_pr",
-      "title": "fix(ci): register workflow skips [Onboarding] issues — stop auto-close loop",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1561",
-      "timestamp": "2026-09-08T16:48:37Z",
+      "title": "fix(ops): debounce keepalive probe failures + cron */15",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1598",
+      "timestamp": "2026-09-09T17:29:33Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "feat(agents): ci-lesson-search v1.0.1 — visible help + same-repo novel-intake notes",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1558",
-      "timestamp": "2026-09-08T14:31:17Z",
+      "title": "fix: [Intake] 背景 2026-08-21/22 R-2000iC 换油周期案例：hermes 回答\"数值对（碰巧）但",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1415",
+      "timestamp": "2026-09-09T16:11:23Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "docs(pilots): external pilot report for roof4u (#1550)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1554",
-      "timestamp": "2026-09-08T14:19:54Z",
+      "title": "fix: [Intake] Windows CI: three bugs in one session. (1) splitCom",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1413",
+      "timestamp": "2026-09-09T16:11:19Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "feat(agents): misaka-intake-bot externally reusable — flywheel prerequisites (research + G1-G4)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1549",
-      "timestamp": "2026-09-08T00:43:14Z",
+      "title": "fix: [Intake] Node.js: missing `require(\"node:os\")` inside `try/c",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1412",
+      "timestamp": "2026-09-09T16:11:15Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "docs: DSH Directory badge + failure-knowledge benchmark swap + failure_harvest smoke guide",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1546",
-      "timestamp": "2026-09-07T17:34:22Z",
+      "title": "feat(lessons): add 5 agent and engineering lessons (#1571)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1588",
+      "timestamp": "2026-09-09T16:06:24Z",
       "source": "github"
     },
     {
