@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-09-29T01:31:38.555062+00:00",
+  "generated_at": "2026-09-29T10:32:51.837078+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
+    {
+      "type": "merged_pr",
+      "title": "chore: update leaderboard snapshot",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/2435",
+      "timestamp": "2026-09-29T10:15:19Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "chore(data): sync lessons.json + refresh feed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/2434",
+      "timestamp": "2026-09-29T10:03:32Z",
+      "source": "github"
+    },
     {
       "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
@@ -23,20 +37,6 @@
       "title": "test(langchain): measure the concurrency ratio up to three times instead of once (#2424)",
       "url": "https://github.com/Ikalus1988/MisakaNet/pull/2430",
       "timestamp": "2026-09-29T00:59:17Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/2427",
-      "timestamp": "2026-09-28T21:21:42Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "fix(mcp): mark a non-published lesson in the default detail levels and in get_lesson",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/2423",
-      "timestamp": "2026-09-28T18:06:03Z",
       "source": "github"
     },
     {
