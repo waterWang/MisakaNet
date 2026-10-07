@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-10-07T13:36:53.618318+00:00",
+  "generated_at": "2026-10-07T21:42:16.291287+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
     {
       "type": "merged_pr",
-      "title": "fix(mcp): four methods the dispatcher answers were unreachable behind the 401 gate (#2963)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/2980",
-      "timestamp": "2026-10-07T12:39:12Z",
+      "title": "chore: update leaderboard snapshot",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3021",
+      "timestamp": "2026-10-07T20:58:19Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "fix(mcp): tools/list and tools/call omitted fields the advertised protocol version requires (#2968)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/2977",
-      "timestamp": "2026-10-07T12:28:32Z",
+      "title": "chore(data): sync lessons.json + refresh feed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3020",
+      "timestamp": "2026-10-07T20:49:07Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "fix(preflight): a lesson index that could not be read was reported as \"no risk lesson\" (#2940 item 3)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/2978",
-      "timestamp": "2026-10-07T12:27:54Z",
+      "title": "docs(handoff): phase 4 — ten §3.1 closures, the delivery half proven in production, and seven bad judgment criteria",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3010",
+      "timestamp": "2026-10-07T17:29:22Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "fix(mcp): minProperties cost one client every tool this server offers (#2967)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/2976",
-      "timestamp": "2026-10-07T11:43:32Z",
+      "title": "chore(data): sync lessons.json + refresh feed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3013",
+      "timestamp": "2026-10-07T17:13:34Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "fix(ci): a path the workflow-script checker could not resolve was reported as clean",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/2975",
-      "timestamp": "2026-10-07T11:38:09Z",
+      "title": "chore: auto-update lessons.json, public counts and generated pages",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3014",
+      "timestamp": "2026-10-07T17:10:55Z",
       "source": "github"
     },
     {
