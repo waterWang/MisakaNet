@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-10-08T10:53:21.387085+00:00",
+  "generated_at": "2026-10-08T18:54:22.774110+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
     {
       "type": "merged_pr",
-      "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3032",
-      "timestamp": "2026-10-08T10:52:29Z",
+      "title": "lessons: six contributor submissions, rebuilt on current main",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3072",
+      "timestamp": "2026-10-08T18:53:25Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3031",
-      "timestamp": "2026-10-08T06:20:33Z",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3071",
+      "timestamp": "2026-10-08T18:44:33Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
       "title": "chore: auto-update lessons.json, public counts and generated pages",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3030",
-      "timestamp": "2026-10-08T06:10:05Z",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3070",
+      "timestamp": "2026-10-08T18:40:08Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "lesson: a port that is already allocated is EADDRINUSE — name the holder with ss, free it, retry (#2804)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3016",
-      "timestamp": "2026-10-08T06:02:46Z",
+      "title": "lesson: README --profile name verbatim installs into unloaded profile (closes #2865)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3040",
+      "timestamp": "2026-10-08T18:34:35Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3024",
-      "timestamp": "2026-10-08T01:11:39Z",
+      "title": "docs(handoff): phase 9 — seven PRs finished, and four ways I read silence as success",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3067",
+      "timestamp": "2026-10-08T18:02:22Z",
       "source": "github"
     },
     {
