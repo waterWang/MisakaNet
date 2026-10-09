@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-10-09T01:17:08.705015+00:00",
+  "generated_at": "2026-10-09T11:00:42.253299+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
+    {
+      "type": "merged_pr",
+      "title": "chore(data): sync lessons.json + refresh feed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3087",
+      "timestamp": "2026-10-09T10:51:30Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "chore: update leaderboard snapshot",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3077",
+      "timestamp": "2026-10-09T01:30:06Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "chore(data): sync lessons.json + refresh feed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3076",
+      "timestamp": "2026-10-09T01:22:13Z",
+      "source": "github"
+    },
     {
       "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
@@ -13,30 +34,9 @@
     },
     {
       "type": "merged_pr",
-      "title": "docs(handoff): phase 9 closing — \"mergeable\" was the false part",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3075",
-      "timestamp": "2026-10-08T19:06:47Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "chore: auto-update lessons.json, public counts and generated pages",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3074",
-      "timestamp": "2026-10-08T19:02:04Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "lessons: six contributor submissions, rebuilt on current main",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3072",
-      "timestamp": "2026-10-08T18:53:25Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3071",
-      "timestamp": "2026-10-08T18:44:33Z",
+      "title": "lesson: README --profile name verbatim installs into unloaded profile (closes #2865)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3040",
+      "timestamp": "2026-10-08T18:34:35Z",
       "source": "github"
     },
     {
