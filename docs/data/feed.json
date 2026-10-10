@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-10-10T01:08:57.665279+00:00",
+  "generated_at": "2026-10-10T10:36:54.753690+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
+    {
+      "type": "merged_pr",
+      "title": "chore: update leaderboard snapshot",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3115",
+      "timestamp": "2026-10-10T10:14:04Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "chore(data): sync lessons.json + refresh feed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3114",
+      "timestamp": "2026-10-10T10:07:21Z",
+      "source": "github"
+    },
     {
       "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
@@ -23,20 +37,6 @@
       "title": "chore(data): sync lessons.json + refresh feed",
       "url": "https://github.com/Ikalus1988/MisakaNet/pull/3107",
       "timestamp": "2026-10-09T18:33:52Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3104",
-      "timestamp": "2026-10-09T18:23:08Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "chore: auto-update lessons.json, public counts and generated pages",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3105",
-      "timestamp": "2026-10-09T18:22:55Z",
       "source": "github"
     },
     {
