@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-10-13T19:21:58.814010+00:00",
+  "generated_at": "2026-10-14T00:35:07.095182+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
+    {
+      "type": "merged_pr",
+      "title": "chore(data): sync lessons.json + refresh feed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3237",
+      "timestamp": "2026-10-14T00:32:49Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "chore(data): sync lessons.json + refresh feed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3236",
+      "timestamp": "2026-10-13T19:31:47Z",
+      "source": "github"
+    },
     {
       "type": "merged_pr",
       "title": "docs(handoff): §89 — the registration bug, reproduced as a user and closed on live evidence",
@@ -23,20 +37,6 @@
       "title": "docs(handoff): split both monoliths and enforce the 800-line limit",
       "url": "https://github.com/Ikalus1988/MisakaNet/pull/3229",
       "timestamp": "2026-10-13T15:23:07Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "test(search): pin that the displayed score is relative to its own result set",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3230",
-      "timestamp": "2026-10-13T15:10:01Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "docs(handoff): the four rules the owner decided, and the citations that constrain the split",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3227",
-      "timestamp": "2026-10-13T14:42:30Z",
       "source": "github"
     },
     {
