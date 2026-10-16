@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-10-16T04:43:33.758001+00:00",
+  "generated_at": "2026-10-16T11:37:16.077907+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
     {
       "type": "merged_pr",
-      "title": "fix(schema): the lesson status enum held three values while the gate enforced six, and the required audit check reads the schema",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3302",
-      "timestamp": "2026-10-16T00:54:51Z",
+      "title": "test: drop two `eval`s a code scanner is right about, and fix a recipe that expired",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3327",
+      "timestamp": "2026-10-16T10:19:50Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "docs(dsh): record the E3 smoke re-run by revision, not by a byte count",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3326",
+      "timestamp": "2026-10-16T10:11:06Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "chore(main): release 2.44.0",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3318",
+      "timestamp": "2026-10-16T08:21:07Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3300",
-      "timestamp": "2026-10-15T21:42:00Z",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3320",
+      "timestamp": "2026-10-16T08:11:54Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3293",
-      "timestamp": "2026-10-15T17:20:31Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "docs(handoff): §93 — the wrap-up where three of the four premises had to be retracted",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3290",
-      "timestamp": "2026-10-15T16:42:01Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3291",
-      "timestamp": "2026-10-15T16:39:50Z",
+      "title": "fix(ci): registry-drift-watch could never report the drift it detects",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3322",
+      "timestamp": "2026-10-16T08:10:41Z",
       "source": "github"
     },
     {
