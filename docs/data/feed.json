@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-10-17T04:40:56.295146+00:00",
+  "generated_at": "2026-10-17T10:57:08.428167+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
     {
       "type": "merged_pr",
-      "title": "ci(shape-guard): let a PR declare a whole-file README rewrite",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3400",
-      "timestamp": "2026-10-17T04:16:14Z",
+      "title": "feat(health): report the corpus read path, and stop retrying D1 while it is refusing",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3427",
+      "timestamp": "2026-10-17T10:54:04Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "feat(site,ci): fold the contributor ranking, and state the landing rules where a fork contributor reads them",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3395",
-      "timestamp": "2026-10-17T03:38:33Z",
+      "title": "fix(worker): a D1 quota refusal falls back to the snapshot instead of taking search down",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3423",
+      "timestamp": "2026-10-17T10:36:52Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3396",
-      "timestamp": "2026-10-17T03:30:31Z",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3424",
+      "timestamp": "2026-10-17T10:28:21Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "docs(readme): positioning rework — E4 is an observation, the benchmark is paused, and the badge wall states what it can prove",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3364",
-      "timestamp": "2026-10-17T03:21:03Z",
+      "title": "feat(lessons): adopt #3324 — a command piped into tail reports tail's exit code",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3421",
+      "timestamp": "2026-10-17T10:15:38Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "fix(adopt): the adopted PR's checks never started, because the push used GITHUB_TOKEN",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3378",
-      "timestamp": "2026-10-17T03:20:58Z",
+      "title": "chore(main): release 2.46.0",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3402",
+      "timestamp": "2026-10-17T10:15:15Z",
       "source": "github"
     },
     {
