@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:37:36.260807+00:00",
+  "generated_at": "2026-10-19T20:54:04.763303+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
@@ -7,36 +7,36 @@
     {
       "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3522",
-      "timestamp": "2026-10-19T05:06:00Z",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3561",
+      "timestamp": "2026-10-19T20:48:54Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "chore(deps-dev): bump wrangler from 4.149.0 to 4.151.0 in the npm group",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3504",
-      "timestamp": "2026-10-19T05:03:10Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "chore(deps): update pymdown-extensions requirement from >=12.1 to >=12.3 in the pip group",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3505",
-      "timestamp": "2026-10-19T05:00:02Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "docs(handoff): §111 — what the 00:00 UTC reset verified, and one correction",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3513",
-      "timestamp": "2026-10-19T01:20:44Z",
+      "title": "site + mcp: the audit batch (six PRs that turned out to be one stack)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3560",
+      "timestamp": "2026-10-19T17:49:26Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3499",
-      "timestamp": "2026-10-18T16:08:48Z",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3556",
+      "timestamp": "2026-10-19T16:41:40Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "fix(activity): a day the store refused is drawn as missing, not as zero",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3551",
+      "timestamp": "2026-10-19T16:17:34Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "fix(worker): a traffic counter is D1 plus KV, not D1 or KV",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3549",
+      "timestamp": "2026-10-19T15:21:50Z",
       "source": "github"
     },
     {
