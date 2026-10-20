@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-10-20T00:31:46.229402+00:00",
+  "generated_at": "2026-10-20T09:28:41.884676+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
+    {
+      "type": "merged_pr",
+      "title": "chore(data): sync lessons.json + refresh feed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3578",
+      "timestamp": "2026-10-20T08:49:00Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "docs(handoff): 116 — the audit batch, what the subagents overturned, and what is still a decision",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3570",
+      "timestamp": "2026-10-20T04:37:44Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "chore(data): sync lessons.json + refresh feed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3562",
+      "timestamp": "2026-10-20T00:33:02Z",
+      "source": "github"
+    },
     {
       "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
@@ -16,27 +37,6 @@
       "title": "site + mcp: the audit batch (six PRs that turned out to be one stack)",
       "url": "https://github.com/Ikalus1988/MisakaNet/pull/3560",
       "timestamp": "2026-10-19T17:49:26Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3556",
-      "timestamp": "2026-10-19T16:41:40Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "fix(activity): a day the store refused is drawn as missing, not as zero",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3551",
-      "timestamp": "2026-10-19T16:17:34Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "fix(worker): a traffic counter is D1 plus KV, not D1 or KV",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3549",
-      "timestamp": "2026-10-19T15:21:50Z",
       "source": "github"
     },
     {
