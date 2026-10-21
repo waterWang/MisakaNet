@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-10-20T19:36:27.645607+00:00",
+  "generated_at": "2026-10-21T00:31:36.519319+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
+    {
+      "type": "merged_pr",
+      "title": "chore(data): sync lessons.json + refresh feed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3600",
+      "timestamp": "2026-10-21T00:08:29Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "docs(handoff): record which PR carried each batch of #3541",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3598",
+      "timestamp": "2026-10-20T19:41:08Z",
+      "source": "github"
+    },
     {
       "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
@@ -23,20 +37,6 @@
       "title": "feat(site): the halos, the colour bars and the purple (#3541, batch X)",
       "url": "https://github.com/Ikalus1988/MisakaNet/pull/3593",
       "timestamp": "2026-10-20T18:35:52Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "docs(worker): the CDN serves a cached entry to a request that carries credentials",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3594",
-      "timestamp": "2026-10-20T18:24:27Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "fix(worker): the account was spending 8x its free-tier row-read budget on two public endpoints",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3590",
-      "timestamp": "2026-10-20T16:58:23Z",
       "source": "github"
     },
     {
