@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-10-22T12:05:48.543192+00:00",
+  "generated_at": "2026-10-22T17:19:49.080679+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
     {
       "type": "merged_pr",
-      "title": "test(hook): the fetch test races the hook's own four-second stall guard (#3692)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3718",
-      "timestamp": "2026-10-22T11:43:17Z",
+      "title": "feat(quickstart): report qs_view/qs_copy/qs_link step events to D1",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3532",
+      "timestamp": "2026-10-22T17:19:09Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "feat(setup): the install says what it is about to write, before it writes it (#3690)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3709",
-      "timestamp": "2026-10-22T11:36:48Z",
+      "title": "fix(mcp): local stdio search: memory_context ImportError, domain filter, \"usage\" routing",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3515",
+      "timestamp": "2026-10-22T17:18:06Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "fix(setup): the npm description says what it writes, what leaves this machine, and the one opt-in exception (#3689)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3710",
-      "timestamp": "2026-10-22T11:05:04Z",
+      "title": "lessons(contrib): answer four claimed questions (#3564 #3299 #3301 #3380)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3682",
+      "timestamp": "2026-10-22T17:17:04Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "fix(setup): the npm copy of the rule text says redaction is done by code (#3692)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3708",
-      "timestamp": "2026-10-22T10:48:59Z",
+      "title": "fix(release): restore the commit scan's floor, and gate it",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3749",
+      "timestamp": "2026-10-22T17:04:18Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "fix(tombstone): handle non-object JSON with clean ValueError to prevent raw traceback (closes #1838)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/1845",
-      "timestamp": "2026-09-25T00:46:55Z",
+      "title": "chore(data): sync lessons.json + refresh feed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3747",
+      "timestamp": "2026-10-22T16:46:28Z",
       "source": "github"
     },
     {
