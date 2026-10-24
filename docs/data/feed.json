@@ -1,9 +1,16 @@
 {
-  "generated_at": "2026-10-24T16:04:51.503392+00:00",
+  "generated_at": "2026-10-24T20:59:00.845306+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
+    {
+      "type": "merged_pr",
+      "title": "chore(data): sync lessons.json + refresh feed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3816",
+      "timestamp": "2026-10-24T16:19:43Z",
+      "source": "github"
+    },
     {
       "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
@@ -30,13 +37,6 @@
       "title": "lessons(contrib): three intake lessons — unexecuted samples, report-only gates, WSL/Docker readiness",
       "url": "https://github.com/Ikalus1988/MisakaNet/pull/3805",
       "timestamp": "2026-10-24T03:52:23Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "fix(setup): tier ③ is the state directory, not always a hook",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3804",
-      "timestamp": "2026-10-24T03:18:25Z",
       "source": "github"
     },
     {
