@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:34:57.977609+00:00",
+  "generated_at": "2026-10-25T20:58:29.492418+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
@@ -7,36 +7,36 @@
     {
       "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3845",
-      "timestamp": "2026-10-25T11:56:25Z",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3856",
+      "timestamp": "2026-10-25T17:41:09Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "fix(setup): honour MISAKANET_AGENT_DIR so an unwritable HOME stops breaking install/--verify",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3844",
-      "timestamp": "2026-10-25T11:29:03Z",
+      "title": "fix(ci): prove all four hard gates can go red, on every PR",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3855",
+      "timestamp": "2026-10-25T17:30:45Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "docs(setup): the restart is not universal, and the tool list is how you confirm it",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3830",
-      "timestamp": "2026-10-25T08:17:28Z",
+      "title": "lessons(contrib): 125 intake lessons from the 2026-10-25 triage",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3851",
+      "timestamp": "2026-10-25T17:29:28Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3829",
-      "timestamp": "2026-10-25T05:06:52Z",
+      "title": "fix(audit): the intake-kind flip check now decides the exit code",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3853",
+      "timestamp": "2026-10-25T17:29:23Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "fix(release): stand down on npm E409 when the version already exists",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3826",
-      "timestamp": "2026-10-25T04:37:21Z",
+      "title": "fix(setup): uninstall ownership, stable client id, truthful manifest",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/3852",
+      "timestamp": "2026-10-25T17:10:54Z",
       "source": "github"
     },
     {
