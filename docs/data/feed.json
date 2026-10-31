@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-10-30T22:29:19.311160+00:00",
+  "generated_at": "2026-10-31T05:57:11.831374+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
     {
       "type": "merged_pr",
-      "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4186",
-      "timestamp": "2026-10-30T18:16:59Z",
+      "title": "lessons: convert the second `[Lesson]` batch — 44 of 47, with titles and domains reviewed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4205",
+      "timestamp": "2026-10-31T05:49:57Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "docs(handoff): the pipeline round — three defects fixed, one panel shipped, nine issues closed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4135",
-      "timestamp": "2026-10-30T17:08:12Z",
+      "title": "feat(worker): the AI Gateway becomes a var on the serving embedding call, off by default",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4204",
+      "timestamp": "2026-10-31T04:40:08Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "feat(heartbeat): a fourth panel — the intake pipeline, issues in and lessons out",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4131",
-      "timestamp": "2026-10-30T16:40:47Z",
+      "title": "feat(intake): `intake_lesson_to_file.py` — the `[Lesson]` converter, in the repo this time",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4203",
+      "timestamp": "2026-10-31T04:04:18Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "fix(triage): the question autopilot reads the whole backlog, retries a dropped read, keeps one digest",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4130",
-      "timestamp": "2026-10-30T16:20:34Z",
+      "title": "fix(heartbeat): the pipeline panel reported \"nothing converted\" when PyYAML was missing",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4200",
+      "timestamp": "2026-10-31T03:41:06Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "docs(maintainer): the intake funnel, measured — 355 open, 5 needing us, and three defects",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4128",
-      "timestamp": "2026-10-30T16:16:32Z",
+      "title": "feat(health): assert the search index holds the corpus, not merely that it answers",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4199",
+      "timestamp": "2026-10-31T03:29:32Z",
       "source": "github"
     },
     {
