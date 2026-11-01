@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-11-01T06:25:49.409076+00:00",
+  "generated_at": "2026-11-01T16:09:44.479396+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
     {
       "type": "merged_pr",
-      "title": "fix(gate): F841 joins the bug-class gate — 39 values were computed and then dropped",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4266",
-      "timestamp": "2026-11-01T06:16:48Z",
+      "title": "docs(handoff): volume 25 — the second audit pass, re-rated",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4304",
+      "timestamp": "2026-11-01T16:03:39Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "docs(handoff): volume 23 — the session that shipped three releases",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4262",
-      "timestamp": "2026-11-01T02:29:31Z",
+      "title": "fix(docs): the numbers and the auth story say what the code does",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4302",
+      "timestamp": "2026-11-01T15:45:35Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "chore(main): release 3.4.0",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4285",
+      "timestamp": "2026-11-01T15:19:36Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "docs(handoff): volume 24 closes — what deployed, what it scored, what it did not settle",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4301",
+      "timestamp": "2026-11-01T15:17:34Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4261",
-      "timestamp": "2026-11-01T00:27:41Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "chore(main): release 3.2.0",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4259",
-      "timestamp": "2026-10-31T20:09:33Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "feat(lessons): admit Kuro AI's CF per-account quota lesson (#3992)",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4257",
-      "timestamp": "2026-10-31T19:48:56Z",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4300",
+      "timestamp": "2026-11-01T14:26:37Z",
       "source": "github"
     },
     {
