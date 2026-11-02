@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-11-02T06:26:43.139169+00:00",
+  "generated_at": "2026-11-02T19:37:11.264218+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 11,
   "items": [
     {
       "type": "merged_pr",
+      "title": "fix(ci): the Wrangler that deploys is the Wrangler the lockfile names",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4364",
+      "timestamp": "2026-11-02T18:11:15Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "fix(mcp): the schema stops contradicting the handler it describes (#4360, #4361)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4363",
+      "timestamp": "2026-11-02T17:37:31Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4326",
-      "timestamp": "2026-11-02T05:40:13Z",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4362",
+      "timestamp": "2026-11-02T17:26:44Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "feat(lessons): batch 4 — ten submissions, and the two gate bugs they found",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4322",
-      "timestamp": "2026-11-02T05:24:33Z",
+      "title": "fix(#4357, #4358): one workflow count, and every read_text names its encoding",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4359",
+      "timestamp": "2026-11-02T17:09:49Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "perf(search): the corpus is walked once per process, not once per tool call",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4318",
-      "timestamp": "2026-11-02T03:47:32Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "chore(deps): bump the github-actions group with 9 updates",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4317",
-      "timestamp": "2026-11-02T03:06:26Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "chore(deps): bump the pip group with 2 updates",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4316",
-      "timestamp": "2026-11-02T03:06:16Z",
+      "title": "fix(scanning): two real findings fixed, ten false positives to dismiss with reasons",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/4356",
+      "timestamp": "2026-11-02T16:30:30Z",
       "source": "github"
     },
     {
