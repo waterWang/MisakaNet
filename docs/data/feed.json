@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-11-19T11:53:38.653790+00:00",
+  "generated_at": "2026-11-19T20:48:51.264110+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 13,
   "items": [
     {
       "type": "merged_pr",
-      "title": "chore(data): 市场在售版本更新为社区 1.5.12（KV 已同步）",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5337",
-      "timestamp": "2026-11-19T11:27:32Z",
+      "title": "feat(intake): one lesson may convert several intakes, and the ones nobody closed get swept",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5347",
+      "timestamp": "2026-11-19T19:32:37Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "fix(ci): the sweep could not dispatch at all — a PAT without actions:write, on its first real candidate",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5382",
+      "timestamp": "2026-11-19T19:24:02Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5300",
-      "timestamp": "2026-11-19T02:57:51Z",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5381",
+      "timestamp": "2026-11-19T19:11:21Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5271",
-      "timestamp": "2026-11-18T21:02:14Z",
+      "title": "feat(lessons): intake batch 2026-11-19",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5349",
+      "timestamp": "2026-11-19T18:52:11Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "fix(tooling): the two generators that lie on Windows now refuse, and the fallback speaks",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5249",
-      "timestamp": "2026-11-18T16:15:31Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "feat(intake): record whether the corpus already answered a submission, before acting on it",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5241",
-      "timestamp": "2026-11-18T12:43:45Z",
+      "title": "docs(cindy): 插件待办清单（按优先级）",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5379",
+      "timestamp": "2026-11-19T17:43:07Z",
       "source": "github"
     },
     {
