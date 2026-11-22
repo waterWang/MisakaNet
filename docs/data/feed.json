@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T01:25:48.679922+00:00",
+  "generated_at": "2026-11-22T11:40:50.872805+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 13,
@@ -7,36 +7,36 @@
     {
       "type": "merged_pr",
       "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5553",
-      "timestamp": "2026-11-21T19:53:57Z",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5571",
+      "timestamp": "2026-11-22T07:55:18Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "feat(lessons): intake batch 2026-11-21",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5530",
-      "timestamp": "2026-11-21T15:30:12Z",
+      "title": "feat(lessons): three intake that were blocked by public tool names, and the allowlist entries that unblock them",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5570",
+      "timestamp": "2026-11-22T07:33:56Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5520",
-      "timestamp": "2026-11-21T11:46:24Z",
+      "title": "fix(questions): retire only the tasks this script created",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5569",
+      "timestamp": "2026-11-22T06:41:41Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "feat(lessons): intake batch 2026-11-21",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5519",
-      "timestamp": "2026-11-21T10:28:15Z",
+      "title": "fix(questions): a refused post says which issue and why, and does not abort the run",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5566",
+      "timestamp": "2026-11-22T05:58:09Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "docs(intake): why the bare prose words stay refused, written down so they are not re-derived",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5512",
-      "timestamp": "2026-11-21T06:36:38Z",
+      "title": "fix(questions): bounty tasks are read in full and retired when their premise is gone",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5565",
+      "timestamp": "2026-11-22T04:27:31Z",
       "source": "github"
     },
     {
