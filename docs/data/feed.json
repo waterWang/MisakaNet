@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-11-22T19:50:47.629051+00:00",
+  "generated_at": "2026-11-23T01:50:08.158581+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 13,
   "items": [
     {
       "type": "merged_pr",
-      "title": "docs(handoff): vol 44 addendum — the receipt sweep worked, and the step after it cancelled the run",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5582",
-      "timestamp": "2026-11-22T16:53:17Z",
+      "title": "docs(handoff): vol 45 — histogram the refusals before reading them one by one",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5598",
+      "timestamp": "2026-11-23T00:27:56Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "fix(intake): the close sweep reads the corpus once, not once per open intake",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5581",
-      "timestamp": "2026-11-22T16:45:57Z",
+      "title": "feat(lessons): eight intakes were complete and refused by two words the reader did not know",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5595",
+      "timestamp": "2026-11-23T00:04:53Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "chore(data): record the 318 receipts run 45039931336 delivered",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5580",
-      "timestamp": "2026-11-22T16:45:28Z",
+      "title": "fix(intake): the section reader accepts 现象, 根因, and a descriptive qualifier",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5596",
+      "timestamp": "2026-11-22T23:57:18Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "docs(handoff): vol 44 — what the residue of a queue looks like, and a sweep that failed 313 times in green",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5579",
-      "timestamp": "2026-11-22T16:01:58Z",
+      "title": "chore(data): sync lessons.json + refresh feed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5590",
+      "timestamp": "2026-11-22T20:13:56Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "fix(receipts): a sweep that fails every post says so, and names gh's reason",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5578",
-      "timestamp": "2026-11-22T15:42:17Z",
+      "title": "feat(lessons): intake batch 2026-11-22",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5589",
+      "timestamp": "2026-11-22T20:07:50Z",
       "source": "github"
     },
     {
