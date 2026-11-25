@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-11-24T23:57:10.412482+00:00",
+  "generated_at": "2026-11-25T08:51:49.062801+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 13,
   "items": [
     {
       "type": "merged_pr",
-      "title": "feat(cindy-plugin): 1.5.19 —— 短码闸门 + 预览即外发；补上内网地址脱敏",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5710",
-      "timestamp": "2026-11-24T16:57:07Z",
+      "title": "feat(cindy-plugin): 1.5.20 —— 上报确认改成「一键点卡」：点击 → 一次性票据 → 一轮 agent",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5782",
+      "timestamp": "2026-11-25T07:12:29Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "docs(handoff): vol 47 — 确认闸门该由谁按下，与 MCP 的「没有回答」",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5712",
-      "timestamp": "2026-11-24T15:09:51Z",
+      "title": "chore: auto-update lessons.json, public counts and generated pages",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5780",
+      "timestamp": "2026-11-25T06:05:49Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "feat(lessons): intake batch 2026-11-24",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5706",
-      "timestamp": "2026-11-24T14:22:09Z",
+      "title": "feat(lessons): intake batch 2026-11-25",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5772",
+      "timestamp": "2026-11-25T01:00:14Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5705",
-      "timestamp": "2026-11-24T14:16:38Z",
+      "title": "chore(main): release 3.22.0",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5703",
+      "timestamp": "2026-11-25T00:46:50Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "feat(lessons): intake batch 2026-11-24",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5699",
-      "timestamp": "2026-11-24T09:39:03Z",
+      "title": "chore(data): 市场在售版本更新为社区 1.5.19（KV 已同步）",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5771",
+      "timestamp": "2026-11-25T00:44:27Z",
       "source": "github"
     },
     {
