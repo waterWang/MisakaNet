@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-11-26T03:39:10.093705+00:00",
+  "generated_at": "2026-11-26T17:05:53.645190+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 13,
   "items": [
     {
       "type": "merged_pr",
-      "title": "feat(lessons): intake batch 2026-11-26",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5828",
-      "timestamp": "2026-11-26T03:33:18Z",
+      "title": "docs(maintainer): §9 的删除清单少了一条读取者（设计收敛门禁），补 §9.5",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5847",
+      "timestamp": "2026-11-26T16:25:40Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "feat(site): 1,164 个 lesson 页补 JSON-LD（TechArticle + 面包屑），#5799 拆出来的那部分",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5846",
+      "timestamp": "2026-11-26T14:56:56Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
       "title": "feat(lessons): intake batch 2026-11-26",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5824",
-      "timestamp": "2026-11-26T00:36:51Z",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5842",
+      "timestamp": "2026-11-26T11:46:28Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "docs(handoff): vol 48 —— 确认闸门的最终形状（一键点卡），与三次「假工作」的清算",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5823",
-      "timestamp": "2026-11-26T00:32:17Z",
+      "title": "perf(worker): 每课客户端计数的 memo 15 分钟 → 1 小时（今天是全账最大的一笔读）",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5843",
+      "timestamp": "2026-11-26T11:43:39Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5817",
-      "timestamp": "2026-11-25T19:42:11Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "feat(lessons): intake batch 2026-11-25",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5815",
-      "timestamp": "2026-11-25T19:03:07Z",
+      "title": "docs(readme): 首页瘦身 —— Recitation 下沉、Opire 归位、双包折叠、徽章 15→13",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5840",
+      "timestamp": "2026-11-26T09:32:55Z",
       "source": "github"
     },
     {
