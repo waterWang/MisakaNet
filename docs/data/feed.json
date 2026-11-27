@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-11-27T12:46:57.163305+00:00",
+  "generated_at": "2026-11-27T23:34:10.229778+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 13,
   "items": [
     {
       "type": "merged_pr",
-      "title": "docs(readme): one story on the first screen, and the CJK title fits its panel",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5876",
-      "timestamp": "2026-11-27T12:32:07Z",
+      "title": "feat(lessons): intake batch 2026-11-27",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5909",
+      "timestamp": "2026-11-27T19:59:05Z",
+      "source": "github"
+    },
+    {
+      "type": "merged_pr",
+      "title": "perf(worker): stop paying a cross-database D1 write on every search (~640 ms of each warm request)",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5890",
+      "timestamp": "2026-11-27T15:28:47Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
       "title": "feat(lessons): intake batch 2026-11-27",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5875",
-      "timestamp": "2026-11-27T11:33:30Z",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5889",
+      "timestamp": "2026-11-27T14:37:59Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "fix(gates): wire the hero check to CI, stop gating on a count that moves hourly, drop the fake 'no lockfile' claim",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5873",
-      "timestamp": "2026-11-27T11:12:47Z",
+      "title": "chore(data): 记 2026-11-27 的市场触达（1931 下载 / 近 7 天 60 使用）",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5888",
+      "timestamp": "2026-11-27T14:34:34Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "feat(lessons): intake batch 2026-11-27",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5870",
-      "timestamp": "2026-11-27T09:29:09Z",
-      "source": "github"
-    },
-    {
-      "type": "merged_pr",
-      "title": "fix(deps): the wheel and uv.lock were both missing jsonschema and mcp",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5864",
-      "timestamp": "2026-11-27T05:49:46Z",
+      "title": "chore(data): sync lessons.json + refresh feed",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5880",
+      "timestamp": "2026-11-27T13:02:28Z",
       "source": "github"
     },
     {
