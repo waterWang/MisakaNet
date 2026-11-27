@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-11-27T01:48:32.018844+00:00",
+  "generated_at": "2026-11-27T12:46:57.163305+00:00",
   "repo": "https://github.com/Ikalus1988/MisakaNet",
   "site": "https://misakanet.org",
   "item_count": 13,
   "items": [
     {
       "type": "merged_pr",
-      "title": "fix(ci): D1 cost watch 用 github.token 发 issue —— PAT 发不了，连续红了两天",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5850",
-      "timestamp": "2026-11-27T01:43:42Z",
+      "title": "docs(readme): one story on the first screen, and the CJK title fits its panel",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5876",
+      "timestamp": "2026-11-27T12:32:07Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "chore(main): release 3.23.0",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5781",
-      "timestamp": "2026-11-27T01:41:49Z",
+      "title": "feat(lessons): intake batch 2026-11-27",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5875",
+      "timestamp": "2026-11-27T11:33:30Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "chore(data): sync lessons.json + refresh feed",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5848",
-      "timestamp": "2026-11-26T17:23:08Z",
+      "title": "fix(gates): wire the hero check to CI, stop gating on a count that moves hourly, drop the fake 'no lockfile' claim",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5873",
+      "timestamp": "2026-11-27T11:12:47Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "docs(maintainer): §9 的删除清单少了一条读取者（设计收敛门禁），补 §9.5",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5847",
-      "timestamp": "2026-11-26T16:25:40Z",
+      "title": "feat(lessons): intake batch 2026-11-27",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5870",
+      "timestamp": "2026-11-27T09:29:09Z",
       "source": "github"
     },
     {
       "type": "merged_pr",
-      "title": "feat(site): 1,164 个 lesson 页补 JSON-LD（TechArticle + 面包屑），#5799 拆出来的那部分",
-      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5846",
-      "timestamp": "2026-11-26T14:56:56Z",
+      "title": "fix(deps): the wheel and uv.lock were both missing jsonschema and mcp",
+      "url": "https://github.com/Ikalus1988/MisakaNet/pull/5864",
+      "timestamp": "2026-11-27T05:49:46Z",
       "source": "github"
     },
     {
